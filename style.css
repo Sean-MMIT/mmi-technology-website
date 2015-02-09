@@ -1,0 +1,41 @@
+body {
+	color: white;
+	background-color: black;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul li {
+	float: left;
+	text-align: center;
+}
+nav ul li a {
+	display: block;
+	width: 70px;
+}
+nav ul li a:hover{
+	background-color: rgb(50,50,50);
+}
+h1 {
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+a:link {
+	color: white;
+}
+a:visited {
+	color: rgb(200,200,200);
+}
+a:hover {
+	color: white;
+}
+a:active{
+	color: white;
+}
+.hline {
+	display: block;
+}
