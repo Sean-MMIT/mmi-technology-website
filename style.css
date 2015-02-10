@@ -1,6 +1,7 @@
 body {
 	color: white;
 	background-color: black;
+	margin: 0px 5% 0px 5%;
 }
 nav ul {
 	list-style-type: none;
@@ -18,11 +19,23 @@ nav ul li a {
 nav ul li a:hover{
 	background-color: rgb(50,50,50);
 }
+ul {
+	margin: 5px 3%;
+
+}
 h1 {
 	text-align: center;
 }
-h2{
-	text-align: center;
+h2 {
+	margin: 10px 2%;
+}
+h3 {
+	text-decoration: underline;
+	margin: 8px 3% 5px;
+}
+h4 {
+	font-size: 90%;
+	margin: 5px 4%;
 }
 a:link {
 	color: white;
