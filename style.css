@@ -1,3 +1,6 @@
+article{
+	font-size: big
+}
 body {
 	color: white;
 	background-color: black;
@@ -49,6 +52,7 @@ a:hover {
 a:active{
 	color: white;
 }
-.hline {
-	display: block;
+article {
+	margin: 5px 5%;
+	font-size: 120%;
 }
